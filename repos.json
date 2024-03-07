@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "mashiro",
+      "name": "kagura-kernel",
       "repo": "https://github.com/nekoprjkt/kernel-xiaomi-vince",
       "branch": "14",
       "device": "vince",
