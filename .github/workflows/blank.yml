@@ -6,9 +6,9 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the "K.4.19" branch
   push:
-    branches: [ "K.4.19" ]
+    branches: [ "K.4.9" ]
   pull_request:
-    branches: [ "K.4.19" ]
+    branches: [ "K.4.9" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
