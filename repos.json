@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "kagura-kernel",
-      "repo": "https://github.com/nekoprjkt/kernel-xiaomi-vince",
+      "repo": "https://github.com/PixelDreamTeam/kernel_xiaomi_vince",
       "branch": "14",
       "device": "vince",
       "defconfig": "vince-perf_defconfig"
